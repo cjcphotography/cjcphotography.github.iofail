@@ -34,7 +34,7 @@ const CLIENTS = [
     fullDesc: "Pucks for Purpose is a hockey focused initiative that brings communities together to create meaningful change through sport. Built on the energy of both men's and women's games, the event reached over 1.1 million viewers this year, highlighting its growing impact and wide audience. It also made history by hosting the first ever university women's charity sporting event in Canada, setting a new standard for inclusivity and recognition in university athletics. Beyond the game itself, Pucks for Purpose is dedicated to giving back. This year alone, the initiative raised $200,000, bringing its three year total to $385,000. These funds directly support the Canadian Cancer Society and motionball for Special Olympics, helping fund critical research, programs, and opportunities for those who need it most. At its core, Pucks for Purpose is about more than hockey — it is about using a shared passion for sport to unite people, raise awareness, and make a lasting difference in the community.",
     stats: [
       { num: "3,000+", label: "Attendees" },
-      { num: "2 million",   label: "Instagram Views" },
+      { num: "2.1M",   label: "Instagram Views" },
       { num: "$385K",  label: "Total Raised" }
     ],
     thumbnail: "",
